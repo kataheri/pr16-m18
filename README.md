@@ -25,10 +25,4 @@ Proyek ini dirancang untuk:
 
 - **Dependensi yang Ditambahkan**:  
   - **Guava** (versi 29.0-jre): Untuk utilitas koleksi dan alat tambahan.  
-  - **JUnit** (versi 4.13): Untuk pengujian unit.  
-
-## Cara Menggunakan  
-1. **Kloning Repositori**  
-   ```bash
-   git clone https://github.com/<your_username>/gradle-custom-task.git
-   cd gradle-custom-task
+  - **JUnit** (versi 4.13): Untuk pengujian unit.
